@@ -7,6 +7,6 @@ package com.pingan.lcloud.common;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("这是GBK需要测试");
+        System.out.println("这是UTF8需要测试");
     }
 }
