@@ -14,5 +14,7 @@ public class Main {
         System.out.println("新增GBK提交2");
 
         System.out.println("在utf8分支，但是为GBK编码，提交一条增量内容");
+
+        System.out.println("这里是GBK ，他再次提交一次新内容");
     }
 }
