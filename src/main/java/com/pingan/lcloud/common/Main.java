@@ -7,12 +7,12 @@ package com.pingan.lcloud.common;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("ÕâÊÇGBKĞèÒª²âÊÔ");
+        System.out.println("è¿™æ˜¯GBKéœ€è¦æµ‹è¯•");
 
 
-        System.out.println("ĞÂÔöGBKÌá½»");
-        System.out.println("ĞÂÔöGBKÌá½»2");
+        System.out.println("æ–°å¢GBKæäº¤");
+        System.out.println("æ–°å¢GBKæäº¤2");
 
-        System.out.println("ÔÚutf8·ÖÖ§£¬µ«ÊÇÎªGBK±àÂë£¬Ìá½»Ò»ÌõÔöÁ¿ÄÚÈİ");
+        System.out.println("åœ¨utf8åˆ†æ”¯ï¼Œä½†æ˜¯ä¸ºGBKç¼–ç ï¼Œæäº¤ä¸€æ¡å¢é‡å†…å®¹");
     }
 }
