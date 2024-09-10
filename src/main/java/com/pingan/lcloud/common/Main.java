@@ -11,5 +11,6 @@ public class Main {
 
 
         System.out.println("新增GBK提交");
+        System.out.println("新增GBK提交2");
     }
 }
