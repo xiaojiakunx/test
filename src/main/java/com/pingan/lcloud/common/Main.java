@@ -7,6 +7,6 @@ package com.pingan.lcloud.common;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("ÕâÊÇUTF8ĞèÒª²âÊÔ");
+        System.out.println("è¿™æ˜¯UTF8éœ€è¦æµ‹è¯•");
     }
 }
